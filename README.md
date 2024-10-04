@@ -18,4 +18,5 @@ Implementations of some common Convolutional Neural Networks (CNNs) or ConvNets 
 - SqueezeNet
 - ResNeXt
 - GoogLeNet / InceptionNet
+- U^2-Net
 - ( / Fast / Faster) R-CNN
