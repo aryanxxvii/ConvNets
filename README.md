@@ -7,10 +7,10 @@ Implementations of some common Convolutional Neural Networks (CNNs) or ConvNets 
 - LeNet5
 - AlexNet
 - VGG-16
+- U-Net
 
 #### Planned
 
-- U-Net
 - ResNet
 - EfficientNet
 - DenseNet
